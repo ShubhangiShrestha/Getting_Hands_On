@@ -1,5 +1,5 @@
 public class Twofer {
-    public static String twofer(String name) {
+    public static String twoFer(String name) {
         if(name==null){
             return ("One for you, one for me.");
         }
